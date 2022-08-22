@@ -21,12 +21,12 @@
 ---
 
 :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+- :telescope: I’m want working as a Frontend developer and contributing in building web application.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring the world of front-end development and the Vue.js.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-severys01@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](severysg01@gmail.com)
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
+---
 
