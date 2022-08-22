@@ -26,7 +26,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring the world of front-end development and the Vue.js.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-severys01@gmail.com-red?style=flat&logo=Gmail&logoColor=white)]<severysg01@gmail.com>
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-severys01@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](<severysg01@gmail.com>)
 
 ---
 
