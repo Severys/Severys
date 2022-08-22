@@ -20,13 +20,13 @@
 
 ---
 
-:man_technologist: About Me :
+#:man_technologist: About Me :
 I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - :telescope: I’m want working as a Frontend developer and contributing in building web application.
 
 - :seedling: Exploring the world of front-end development and the Vue.js.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-severys01@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](severysg01@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-severys01@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](<severysg01@gmail.com>)
 
 ---
 
